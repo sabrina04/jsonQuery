@@ -1,0 +1,1819 @@
+### Answer of Query 1 ###
+70 | Carlson,Suarez | green | male
+70 | Carpenter,Staci | brown | female
+70 | Chambers,Britt | green | male
+70 | Chavez,Nadine | brown | female
+70 | Cross,Holland | green | male
+70 | Fisher,Marianne | green | female
+70 | Goff,Levy | green | male
+70 | Gregory,Wise | brown | male
+70 | Huber,Olga | green | female
+70 | Hurst,Osborn | blue | male
+70 | Kennedy,Christa | blue | female
+70 | Kinney,Michael | blue | male
+70 | Lopez,Sophie | blue | female
+70 | Lott,Meadows | blue | male
+70 | Pierce,Hendricks | green | male
+70 | Poole,Park | blue | male
+70 | Powers,Davenport | brown | male
+70 | Preston,Beck | brown | male
+70 | Roy,Gallagher | brown | male
+70 | Tyson,Gayle | brown | female
+70 | Vincent,Foster | green | male
+70 | Watts,Mcclain | green | male
+70 | Wells,Goodwin | brown | male
+69 | Alvarez,Gwendolyn | green | female
+69 | Barrera,Mejia | green | male
+69 | Boyer,Barbara | brown | female
+69 | Boyle,Juana | brown | female
+69 | Bradford,Essie | brown | female
+69 | Buck,Marcy | green | female
+69 | Carter,Koch | green | male
+69 | Christian,Martinez | brown | male
+69 | Clemons,Juliette | green | female
+69 | Finch,Whitaker | green | male
+69 | Frye,Marla | brown | female
+69 | Lowery,Bonnie | green | female
+69 | Mack,Maritza | blue | female
+69 | Maldonado,Harriet | green | female
+69 | Mcintyre,Mercado | green | male
+69 | Page,Imogene | brown | female
+69 | Perry,Suzette | green | female
+69 | Wilkinson,Lola | blue | female
+68 | Collier,Tonia | blue | female
+68 | Green,Douglas | brown | male
+68 | Hopkins,Sonja | blue | female
+68 | Levy,Nadia | green | female
+68 | Murray,Mallory | brown | female
+68 | Pitts,Stephenson | green | male
+68 | Rasmussen,Tina | brown | female
+68 | Romero,Meyers | brown | male
+68 | Soto,Morrow | green | male
+68 | Zimmerman,Laura | green | female
+67 | Coffey,Deleon | green | male
+67 | Gentry,Russell | blue | male
+67 | Kinney,Rush | green | male
+67 | Poole,Park | brown | male
+67 | Skinner,Myra | brown | female
+67 | Vaughn,Leticia | green | female
+67 | Watkins,Blankenship | brown | male
+66 | Allen,Karen | blue | female
+66 | Bishop,Deann | blue | female
+66 | Branch,Nona | brown | female
+66 | Chavez,Avila | blue | male
+66 | Elliott,Mari | green | female
+66 | Foley,Corina | brown | female
+66 | Jackson,Mia | green | female
+66 | Macdonald,Curtis | green | male
+66 | Mcclure,Cox | brown | male
+66 | Sparks,Hunt | brown | male
+66 | Stafford,Cain | brown | male
+66 | Vaughn,Robbins | green | male
+66 | Welch,Ina | blue | female
+65 | Alvarez,Terrie | brown | female
+65 | Ashley,Petra | brown | female
+65 | Bean,Jill | green | female
+65 | Berg,Sullivan | green | male
+65 | Cain,Dillon | brown | male
+65 | Cote,Mccormick | brown | male
+65 | Cotton,Bennett | blue | male
+65 | Deleon,Lucinda | brown | female
+65 | Dorsey,Whitfield | blue | male
+65 | Hall,Meadows | blue | male
+65 | Harmon,Jaclyn | brown | female
+65 | Hodges,Gilda | green | female
+65 | Kirkland,Bowen | brown | male
+65 | Maynard,Loraine | green | female
+65 | Mcmillan,Burris | brown | male
+65 | Nichols,Dena | blue | female
+65 | Rios,Hopper | green | male
+65 | Schneider,Herrera | green | male
+65 | Torres,Watkins | brown | male
+65 | Zimmerman,Gale | brown | female
+64 | Cantrell,Mcfadden | blue | male
+64 | Cantu,Rivas | brown | male
+64 | Carrillo,Cara | green | female
+64 | Combs,Harvey | green | male
+64 | Douglas,Deana | blue | female
+64 | Franco,Trevino | green | male
+64 | Gates,Olivia | blue | female
+64 | Glover,Josefina | brown | female
+64 | Levy,Lillian | blue | female
+64 | Mcguire,Ann | blue | female
+64 | Moss,Kidd | green | male
+64 | Mullen,Potter | green | male
+64 | Norton,Larson | green | male
+64 | Stewart,Robin | brown | female
+64 | Wilcox,Stout | brown | male
+64 | Witt,Marshall | blue | male
+63 | Brock,Burke | brown | male
+63 | Coleman,Hudson | green | male
+63 | Dickerson,Kara | brown | female
+63 | Durham,Laurie | brown | female
+63 | Fowler,Turner | green | male
+63 | Gates,Lawson | brown | male
+63 | Harmon,Guerrero | blue | male
+63 | Leach,Daphne | brown | female
+63 | Middleton,Charlotte | green | female
+63 | Robinson,Bennett | green | male
+63 | Rush,Alston | brown | male
+63 | Sargent,Cash | blue | male
+63 | Sheppard,Soto | green | male
+63 | Valencia,Robert | green | female
+63 | Watts,Beatriz | blue | female
+62 | Blake,Lois | green | female
+62 | Flowers,Buckner | green | male
+62 | Hinton,Bartlett | blue | male
+62 | Love,Estelle | brown | female
+62 | Mcfarland,Collier | blue | male
+62 | Mcpherson,Gertrude | blue | female
+62 | Moore,Collier | brown | male
+62 | Rios,Glenn | brown | male
+62 | Rivas,Salinas | brown | male
+62 | Sykes,Neva | brown | female
+62 | Underwood,Colon | green | male
+62 | Villarreal,Collins | blue | male
+62 | Wells,Baker | brown | male
+62 | Whitehead,Acosta | blue | male
+62 | Wiley,Kerr | blue | male
+61 | Becker,Blackburn | blue | male
+61 | Eaton,Campbell | brown | male
+61 | Hutchinson,Carmen | blue | female
+61 | Maynard,Felicia | brown | female
+60 | Cantu,Ola | green | female
+60 | Chan,Michelle | green | female
+60 | Flynn,Rosa | green | male
+60 | Gilbert,Mai | brown | female
+60 | Gomez,Alissa | green | female
+60 | Kaufman,Dawson | brown | male
+60 | Larsen,Reese | green | male
+60 | Mayo,Patrica | green | female
+60 | Meyer,Della | green | female
+60 | Nunez,Salazar | green | male
+60 | Rogers,Debora | brown | female
+60 | Sharp,Pat | green | female
+60 | Willis,Santiago | green | male
+59 | Andrews,Fuentes | brown | male
+59 | Beard,Allen | brown | male
+59 | Bennett,Robles | blue | male
+59 | Bowers,Velasquez | green | male
+59 | Bruce,Giles | blue | male
+59 | Bryan,Ernestine | brown | female
+59 | Caldwell,Georgia | green | female
+59 | Guy,Woods | blue | male
+59 | Hatfield,Rena | green | female
+59 | Henson,Katharine | blue | female
+59 | Huff,Joyce | green | female
+59 | Nichols,Deidre | green | female
+59 | Odom,Beverley | brown | female
+59 | Richardson,Gabriela | green | female
+59 | Richmond,Glenn | green | male
+59 | Rivers,Lynn | brown | female
+59 | Santana,Cherie | blue | female
+59 | Singleton,Brown | brown | male
+59 | Suarez,Juliette | brown | female
+59 | Tyson,Paige | brown | female
+59 | Wagner,Phyllis | blue | female
+59 | Walter,Guy | blue | male
+58 | Acosta,Lane | blue | male
+58 | Aguilar,Carver | blue | male
+58 | Anderson,Sophia | brown | female
+58 | Brennan,Kaye | blue | female
+58 | Buchanan,Conrad | brown | male
+58 | Cote,Dolores | green | female
+58 | Dorsey,Bauer | blue | male
+58 | Griffith,Bridges | blue | male
+58 | Guthrie,Bonita | brown | female
+58 | Howard,Polly | green | female
+58 | Lopez,Dawn | blue | female
+58 | Mccullough,Maryanne | brown | female
+58 | Mcdaniel,Virgie | green | female
+58 | Medina,Latisha | brown | female
+58 | Mendoza,Hammond | blue | male
+58 | Pollard,Whitfield | green | male
+58 | Santos,Milagros | green | female
+58 | Sims,Harris | blue | male
+57 | Alvarado,Ellison | brown | male
+57 | Chapman,Sanders | blue | male
+57 | Clements,Marina | brown | female
+57 | Dudley,Callie | blue | female
+57 | Dudley,Lupe | brown | female
+57 | Francis,Jerry | blue | female
+57 | Gates,Cheryl | brown | female
+57 | Hayden,Bullock | brown | male
+57 | Lawson,Ellen | blue | female
+57 | Mcgee,Cameron | blue | male
+57 | Mercado,Isabel | brown | female
+57 | Merritt,Consuelo | green | female
+57 | Moon,Stacey | blue | female
+57 | Nicholson,Kane | blue | male
+57 | Salazar,Lopez | green | male
+57 | Scott,Benjamin | blue | male
+57 | Slater,Graves | blue | male
+57 | Smith,Strickland | blue | male
+57 | Solomon,Riley | brown | male
+57 | Stevenson,Juliana | green | female
+57 | Tillman,Maxwell | blue | male
+56 | Battle,Finch | green | male
+56 | Beach,Heidi | blue | female
+56 | Dillard,Erin | blue | female
+56 | Gardner,Pugh | green | male
+56 | Garrett,John | brown | female
+56 | Garza,Elma | brown | female
+56 | Hale,Tia | blue | female
+56 | Manning,Hill | blue | male
+56 | Mccarthy,Dorothy | brown | female
+56 | Michael,Elinor | green | female
+56 | Parsons,Megan | blue | female
+56 | Poole,Angel | blue | female
+56 | Roy,Josefina | brown | female
+56 | Ruiz,Dalton | brown | male
+56 | Santana,Lesley | brown | female
+56 | Sullivan,Maxine | blue | female
+56 | Tran,Noble | brown | male
+56 | Vinson,Lindsey | green | male
+56 | Ward,Jeanie | green | female
+56 | Williams,Weeks | blue | male
+55 | Becker,Tisha | blue | female
+55 | Buchanan,Acevedo | blue | male
+55 | Cardenas,Horn | blue | male
+55 | Downs,Randall | green | male
+55 | Garrison,Sasha | green | female
+55 | Hall,Fannie | brown | female
+55 | Holloway,May | green | male
+55 | Joseph,Franks | blue | male
+55 | Mason,Lynda | blue | female
+55 | Mitchell,Geneva | brown | female
+55 | Morton,Gilda | blue | female
+55 | Noel,Mcneil | green | male
+55 | Parrish,Isabelle | brown | female
+55 | Pruitt,Wiley | green | male
+55 | Rose,Montoya | blue | male
+55 | Simon,Letha | brown | female
+55 | Soto,Gwen | brown | female
+55 | Tate,Vazquez | green | male
+55 | Taylor,James | blue | male
+55 | Webb,Burgess | blue | male
+54 | Atkinson,Holly | brown | female
+54 | Baxter,Betsy | brown | female
+54 | Black,Marlene | blue | female
+54 | Browning,Conway | blue | male
+54 | Dickerson,Fry | brown | male
+54 | Gaines,Janine | blue | female
+54 | Gibson,Therese | blue | female
+54 | Gutierrez,Howe | green | male
+54 | Kirk,Rachael | blue | female
+54 | Morton,Schneider | green | male
+54 | Odonnell,Ortiz | green | male
+54 | Roach,Susanna | blue | female
+54 | Salas,Alicia | brown | female
+54 | Shaffer,Lott | brown | male
+54 | Sims,Jolene | brown | female
+54 | Trujillo,Avis | green | female
+54 | Whitfield,Roxanne | blue | female
+53 | Bates,Landry | blue | male
+53 | Bolton,Chaney | brown | male
+53 | Buchanan,Josie | blue | female
+53 | Burt,Sally | blue | female
+53 | Clarke,Vanessa | brown | female
+53 | Combs,Jordan | green | male
+53 | Drake,Adrian | green | female
+53 | Emerson,Vinson | brown | male
+53 | Erickson,Holt | brown | male
+53 | Garner,Rosanne | blue | female
+53 | Gill,Nanette | blue | female
+53 | Holt,Madeleine | brown | female
+53 | Johnson,Mathis | blue | male
+53 | Lamb,Carolina | blue | female
+53 | Mclean,Burgess | green | male
+53 | Murphy,Yates | brown | male
+53 | Rojas,Lee | brown | female
+53 | Sosa,Atkinson | green | male
+53 | Spears,Goff | brown | male
+53 | Stanley,Cecilia | green | female
+53 | Wilcox,Sofia | brown | female
+52 | Barr,Joanna | brown | female
+52 | Cox,Dean | blue | male
+52 | Doyle,Barr | brown | male
+52 | Gill,Socorro | brown | female
+52 | Leonard,Beasley | brown | male
+52 | Levine,Bullock | blue | male
+52 | Rowland,Frederick | brown | male
+52 | Stevens,Marcy | brown | female
+52 | Talley,Pate | green | male
+52 | Weiss,Georgette | blue | female
+51 | Bernard,Mollie | green | female
+51 | Boyle,Florine | brown | female
+51 | Burgess,Marta | blue | female
+51 | Cabrera,Fern | blue | female
+51 | Carr,Nielsen | brown | male
+51 | Case,Jeanette | green | female
+51 | Foreman,Dickson | green | male
+51 | Hoffman,Calderon | green | male
+51 | Holden,Bethany | brown | female
+51 | Howard,Cash | green | male
+51 | Jimenez,Peck | blue | male
+51 | Leblanc,Lucas | brown | male
+51 | Mckee,Lillian | blue | female
+51 | Mercado,Salas | brown | male
+51 | Mullen,Terra | blue | female
+51 | Park,Delores | green | female
+51 | Sexton,Tiffany | green | female
+50 | Adams,Holder | blue | male
+50 | Callahan,Lora | brown | female
+50 | Conley,Maritza | blue | female
+50 | Conway,Wooten | blue | male
+50 | Donaldson,Finley | brown | male
+50 | Hopkins,Patti | brown | female
+50 | Lyons,Celina | green | female
+50 | Mooney,Barker | green | male
+50 | Patel,Johnson | blue | male
+50 | Patterson,Nichole | brown | female
+50 | Wall,Coleen | brown | female
+49 | Gutierrez,Jasmine | brown | female
+49 | Hoover,Carlene | brown | female
+49 | Jackson,Mia | brown | female
+49 | Kane,Marcie | blue | female
+49 | Tanner,Fischer | brown | male
+49 | Vasquez,Delacruz | green | male
+49 | Vega,Hawkins | brown | male
+49 | Wilkins,Ginger | blue | female
+48 | Ayers,Lynch | blue | male
+48 | Boyd,Willie | blue | female
+48 | Bush,Phoebe | green | female
+48 | Chase,Priscilla | green | female
+48 | Dawson,Jolene | brown | female
+48 | Evans,Claudette | blue | female
+48 | Fleming,Edwina | blue | female
+48 | Gray,Santiago | green | male
+48 | Madden,Schwartz | blue | male
+48 | Mendoza,Kari | brown | female
+48 | Pace,Torres | brown | male
+48 | Reynolds,Hines | green | male
+48 | Rowe,Wells | green | male
+48 | Small,Pennington | blue | male
+48 | Snow,Sykes | blue | male
+48 | Stuart,Sears | green | male
+48 | Valenzuela,Berry | brown | male
+48 | Walter,Sheila | brown | female
+48 | Wolfe,Katheryn | green | female
+47 | Boone,Kristie | green | female
+47 | Bowen,Ferrell | green | male
+47 | Burks,Yvette | blue | female
+47 | Carroll,Patti | green | female
+47 | Ewing,Ines | brown | female
+47 | Grant,Hillary | blue | female
+47 | Hansen,Garner | brown | male
+47 | Howell,Violet | green | female
+47 | Kline,Roth | blue | male
+47 | May,Ashley | blue | male
+47 | Mullins,Rich | blue | male
+47 | Park,Shepard | blue | male
+47 | Pate,Lori | green | female
+47 | Payne,Deidre | brown | female
+47 | Peck,Marguerite | green | female
+47 | Richards,Schroeder | green | male
+47 | Valdez,Sears | blue | male
+47 | Walters,Carey | green | male
+46 | Ballard,Stuart | blue | male
+46 | Britt,Brenda | brown | female
+46 | Bullock,Karla | brown | female
+46 | Casey,Payne | blue | male
+46 | Clarke,Genevieve | blue | female
+46 | Dotson,Wong | green | male
+46 | Franco,Stafford | blue | male
+46 | Gregory,Beverly | blue | female
+46 | Higgins,Nielsen | blue | male
+46 | Huffman,Foley | blue | male
+46 | Jennings,Hallie | blue | female
+46 | Joyce,Lela | green | female
+46 | Patel,Gaines | green | male
+46 | Sanford,Crosby | blue | male
+46 | Shaffer,Taylor | green | male
+46 | Short,Carmella | brown | female
+46 | Tanner,Joanne | blue | female
+45 | Allison,Ellen | green | female
+45 | Barker,Linda | green | female
+45 | Benson,Abby | green | female
+45 | Burns,Huber | brown | male
+45 | Duffy,Melinda | blue | female
+45 | Espinoza,Joyce | green | male
+45 | Gonzalez,Freida | blue | female
+45 | Gray,Lorena | blue | female
+45 | Gregory,Washington | brown | male
+45 | Mayer,Shana | brown | female
+45 | Mcdaniel,Cathy | brown | female
+45 | Melton,Ashlee | green | female
+45 | Patrick,Diann | blue | female
+45 | Riley,Antoinette | brown | female
+45 | Salinas,Pacheco | brown | male
+45 | Sandoval,Ora | green | female
+45 | Scott,Fanny | blue | female
+45 | Short,Cassandra | green | female
+44 | Bender,Price | green | male
+44 | Bender,Roseann | blue | female
+44 | Figueroa,Noel | green | male
+44 | Holloway,Walsh | brown | male
+44 | Justice,Mcconnell | blue | male
+44 | Owens,Rebekah | brown | female
+44 | Powell,Griffin | green | male
+44 | Rasmussen,Catalina | brown | female
+44 | Salazar,Jan | blue | female
+44 | Skinner,Nunez | green | male
+44 | Wyatt,Terri | green | female
+43 | Dejesus,Lopez | brown | male
+43 | Dickerson,Morgan | green | male
+43 | Edwards,Hodges | blue | male
+43 | Hammond,Hess | blue | male
+43 | Houston,Yvonne | brown | female
+43 | Jacobs,Molly | green | female
+43 | Knight,Tanya | blue | female
+43 | Lynn,Coleman | brown | male
+43 | Mayer,Munoz | brown | male
+43 | Montoya,Franklin | blue | male
+43 | Pacheco,Brady | green | male
+43 | Ramos,Cindy | brown | female
+43 | Stevens,Guadalupe | brown | female
+43 | Stone,Hobbs | green | male
+43 | Sykes,Jenny | blue | female
+43 | Turner,Frazier | blue | male
+43 | Wilson,Odessa | brown | female
+43 | Witt,Eaton | blue | male
+42 | Benjamin,Herminia | green | female
+42 | Burke,Arnold | brown | male
+42 | Cannon,Mandy | green | female
+42 | Cervantes,Lynne | blue | female
+42 | Gallegos,William | brown | male
+42 | Harvey,Viola | blue | female
+42 | Hernandez,Maria | blue | female
+42 | Hill,Faith | green | female
+42 | Horn,Sallie | blue | female
+42 | James,Martha | green | female
+42 | Kirby,Shawna | brown | female
+42 | Langley,Tommie | green | female
+42 | Larson,Francine | blue | female
+42 | Mathis,Estelle | brown | female
+42 | Newman,Robbie | brown | female
+42 | Norman,Rojas | brown | male
+42 | Olson,Greta | brown | female
+42 | Reed,Fannie | green | female
+42 | Rojas,Bishop | blue | male
+42 | Underwood,Stone | brown | male
+42 | Ware,Avery | green | male
+42 | Weiss,Randi | green | female
+41 | Barnett,Dina | brown | female
+41 | Barrett,Allyson | green | female
+41 | Beard,Leanne | blue | female
+41 | Bentley,Dominique | brown | female
+41 | Estrada,Marquez | blue | male
+41 | Gallegos,Iva | green | female
+41 | Galloway,Parker | blue | male
+41 | Goff,Irwin | brown | male
+41 | Maddox,Tamra | brown | female
+41 | Martin,Pam | green | female
+41 | Mcclure,Head | green | male
+41 | Mcleod,Puckett | brown | male
+41 | Meyers,Lindsay | blue | male
+41 | Morrow,Stevenson | brown | male
+41 | Patterson,Bernadine | brown | female
+41 | Patton,Ronda | blue | female
+41 | Shepard,Charles | blue | male
+41 | Simpson,Cassie | brown | female
+41 | Sweeney,Bradley | green | male
+40 | Cervantes,Dudley | brown | male
+40 | Clayton,Jaime | green | female
+40 | Cooper,Karen | brown | female
+40 | Dunlap,Vonda | blue | female
+40 | Gardner,Magdalena | blue | female
+40 | Glenn,Bridget | brown | female
+40 | Mckay,Evangeline | brown | female
+40 | Pacheco,Weaver | brown | male
+40 | Parrish,Bernadette | green | female
+40 | Perez,Savannah | blue | female
+40 | Russo,Sexton | brown | male
+40 | Rutledge,Mcbride | brown | male
+40 | Shaw,Reeves | blue | male
+40 | Vang,Moon | green | male
+39 | Ayers,Rowland | green | male
+39 | Bartlett,Jean | brown | female
+39 | Bray,Dixie | blue | female
+39 | Clark,Effie | blue | female
+39 | Hampton,Ferguson | brown | male
+39 | Head,Marci | blue | female
+39 | Huber,Lowe | blue | male
+39 | Kramer,Beulah | blue | female
+39 | Long,Desiree | brown | female
+39 | Martin,Mccarty | blue | male
+39 | Morgan,Goldie | green | female
+39 | Murray,Duffy | green | male
+39 | Paul,Sharron | green | female
+39 | Pennington,Margarita | blue | female
+39 | Phelps,Barry | blue | male
+39 | Ramirez,Margo | brown | female
+39 | Ramos,Carrillo | blue | male
+39 | Ratliff,Marva | brown | female
+39 | Rodriquez,Sargent | green | male
+39 | Rosales,Sheri | green | female
+39 | Snow,Orr | blue | male
+38 | Beach,Pauline | green | female
+38 | Bernard,Lorie | green | female
+38 | Chen,Christine | green | female
+38 | Chen,Laurel | blue | female
+38 | Gaines,Ruby | brown | female
+38 | Gilbert,Watson | blue | male
+38 | Glover,Decker | green | male
+38 | Greer,Juana | green | female
+38 | Hancock,Paulette | blue | female
+38 | Mills,Lang | blue | male
+38 | Patel,Loretta | brown | female
+38 | Romero,Alvarado | blue | male
+38 | Schroeder,Sybil | brown | female
+37 | Baker,Gould | brown | male
+37 | Bentley,Mcdonald | blue | male
+37 | Blankenship,Cardenas | blue | male
+37 | Bryant,Edna | blue | female
+37 | Cain,Christi | brown | female
+37 | Calhoun,Briana | brown | female
+37 | Clark,Cynthia | blue | female
+37 | Curry,Walker | brown | male
+37 | Finley,Gordon | brown | male
+37 | Gilmore,Dorothea | brown | female
+37 | Greene,Chapman | brown | male
+37 | Grimes,Enid | green | female
+37 | Hammond,Callahan | brown | male
+37 | Hatfield,Paulette | blue | female
+37 | Henson,Celina | brown | female
+37 | Johnson,Barrett | blue | male
+37 | Larson,Cross | brown | male
+37 | Marshall,Snider | green | male
+37 | Mayo,Galloway | green | male
+37 | Mcgowan,Henrietta | brown | female
+37 | Mitchell,Gentry | blue | male
+37 | Moody,Hilary | blue | female
+37 | Nguyen,Constance | brown | female
+37 | Nieves,Ophelia | green | female
+37 | Reese,Todd | brown | male
+37 | Robles,Billie | green | female
+36 | Castro,Jana | blue | female
+36 | Chang,Colette | blue | female
+36 | Dixon,Tabitha | blue | female
+36 | Flowers,Browning | brown | male
+36 | Ford,Melanie | blue | female
+36 | Francis,Fowler | blue | male
+36 | Hunt,Christa | blue | female
+36 | Lucas,Gonzalez | green | male
+36 | Mueller,Raquel | blue | female
+36 | Mullins,Leon | green | male
+36 | Parks,Kathleen | brown | female
+36 | Prince,Carter | green | male
+36 | Rodgers,Zelma | green | female
+36 | Shannon,Mcfadden | brown | male
+36 | Silva,Bradshaw | blue | male
+36 | Singleton,Lindsey | brown | female
+36 | Wheeler,Morgan | brown | female
+36 | Wood,Conway | brown | male
+35 | Bridges,Winnie | brown | female
+35 | Cochran,Jenna | blue | female
+35 | Everett,Hickman | blue | male
+35 | Farrell,Owen | blue | male
+35 | Hayden,Minnie | brown | female
+35 | Johnston,Kelsey | brown | female
+35 | Jones,Jody | green | female
+35 | Mclaughlin,Blake | green | male
+35 | Park,Mays | blue | male
+35 | Puckett,Valencia | blue | male
+35 | Rush,Carney | green | male
+35 | Sears,Mcintosh | green | male
+35 | Sweeney,Villarreal | brown | male
+35 | Velazquez,Kayla | green | female
+35 | Ward,Nixon | blue | male
+35 | Yates,Gabrielle | brown | female
+34 | Aguilar,Odonnell | blue | male
+34 | Bartlett,Gilmore | blue | male
+34 | Chang,Beatrice | brown | female
+34 | Drake,Guzman | brown | male
+34 | Finley,Angeline | brown | female
+34 | Good,Kerr | green | male
+34 | Hale,Dunlap | green | male
+34 | Hester,Castillo | blue | male
+34 | Hoffman,Vaughn | brown | male
+34 | Huff,Sweeney | brown | male
+34 | Kline,Joni | brown | female
+34 | Luna,Fitzpatrick | blue | male
+34 | Maddox,Katrina | blue | female
+34 | Matthews,Clay | green | male
+34 | Meadows,Ford | brown | male
+34 | Neal,Reid | blue | male
+34 | Oliver,Chrystal | brown | female
+34 | Pace,Beck | blue | male
+34 | Shields,Karyn | blue | female
+34 | Sloan,Trujillo | blue | male
+34 | Spencer,Cruz | blue | male
+34 | William,Mejia | brown | male
+34 | Wood,Wooten | green | male
+33 | Andrews,Miranda | brown | male
+33 | Campos,Nichole | green | female
+33 | Cantrell,Roberts | green | male
+33 | Dale,Arlene | green | female
+33 | Duran,Carolyn | brown | female
+33 | Herring,Sharlene | brown | female
+33 | House,Leanna | blue | female
+33 | Houston,Esperanza | green | female
+33 | Kelly,Alexandria | green | female
+33 | Mcmahon,Talley | green | male
+33 | Mcmillan,Denise | brown | female
+33 | Murray,Mullins | green | male
+33 | Pope,Aimee | green | female
+33 | Thornton,Graham | green | male
+32 | Conner,Jessie | green | female
+32 | Duke,Becky | brown | female
+32 | Ellis,Stacey | brown | female
+32 | Gonzalez,Sellers | green | male
+32 | Hinton,Sharp | brown | male
+32 | Leblanc,Chavez | brown | male
+32 | Marks,Love | green | male
+32 | Palmer,Lorna | blue | female
+32 | Pruitt,Mccoy | blue | male
+32 | Russell,Elisa | brown | female
+32 | Small,Hooper | green | male
+32 | Valentine,Angelia | brown | female
+32 | Zamora,Hinton | brown | male
+31 | Ball,Mcgee | blue | male
+31 | Cobb,Charlotte | blue | female
+31 | Conner,Robyn | brown | female
+31 | Cotton,Melba | brown | female
+31 | Dean,Wilkins | blue | male
+31 | Ewing,Cherry | brown | male
+31 | Haley,Simone | brown | female
+31 | Hood,Simone | brown | female
+31 | Kent,Mavis | blue | female
+31 | Kirkland,Mai | green | female
+31 | Lawson,Elvira | green | female
+31 | Michael,Walters | blue | male
+31 | Miller,Trina | green | female
+31 | Montoya,Dominguez | brown | male
+31 | Pittman,Harrell | green | male
+31 | Roth,Margaret | blue | female
+31 | Russell,Kenya | green | female
+31 | Sanders,Stephanie | blue | female
+31 | Santiago,Crystal | brown | female
+31 | Webster,Christian | brown | female
+31 | Winters,Darlene | brown | female
+31 | Wright,Shawn | blue | female
+30 | Baldwin,Gentry | brown | male
+30 | Beasley,Deirdre | brown | female
+30 | Blair,Patricia | green | female
+30 | Day,Annmarie | blue | female
+30 | Frank,Stevenson | brown | male
+30 | Gillespie,Mara | brown | female
+30 | Hood,Luann | green | female
+30 | Jarvis,Mary | brown | female
+30 | Jarvis,Molina | brown | male
+30 | Maldonado,Lena | green | female
+30 | Mcclain,Gina | blue | female
+30 | Montgomery,Davis | brown | male
+30 | Reyes,Ward | blue | male
+30 | Roy,Susie | brown | female
+30 | Silva,Michelle | blue | female
+30 | Weber,Fields | green | male
+29 | Anthony,Singleton | brown | male
+29 | Avery,Valenzuela | green | male
+29 | Barr,Ebony | brown | female
+29 | Bradshaw,Alyce | blue | female
+29 | Burnett,Francis | green | male
+29 | Campos,Combs | brown | male
+29 | Church,Audrey | brown | female
+29 | Daugherty,Hicks | brown | male
+29 | Delacruz,Kimberly | brown | female
+29 | Dodson,Cantrell | brown | male
+29 | Fisher,Holmes | brown | male
+29 | Frank,Madge | brown | female
+29 | French,Rebekah | brown | female
+29 | Glass,Jo | blue | female
+29 | Lane,Judith | green | female
+29 | Lindsay,Sykes | blue | male
+29 | Oneill,Chrystal | brown | female
+29 | Reese,Cherry | green | female
+29 | Reid,Wilma | green | female
+29 | Reynolds,Tamera | green | female
+29 | Salazar,Tyson | blue | male
+29 | Torres,Shannon | green | male
+29 | Tyler,Isabelle | brown | female
+29 | Wade,Hays | green | male
+29 | Wagner,Anastasia | blue | female
+29 | Whitney,Melinda | brown | female
+29 | Wilkins,Sara | brown | female
+29 | Yang,Ballard | brown | male
+28 | Carver,Cleo | blue | female
+28 | Cummings,Leta | brown | female
+28 | David,Mercer | green | male
+28 | Garza,West | blue | male
+28 | Gomez,Traci | green | female
+28 | Gould,Molina | brown | male
+28 | Griffin,Ingram | blue | male
+28 | Hart,Juarez | brown | male
+28 | Holden,Lisa | brown | female
+28 | Howe,Ines | green | female
+28 | Hull,Walter | blue | male
+28 | Kline,Herman | brown | male
+28 | Mills,Elba | green | female
+28 | Reed,Aileen | blue | female
+28 | Rojas,Kemp | blue | male
+28 | Sheppard,Peterson | green | male
+28 | Whitaker,Becker | green | male
+27 | Benton,Hurst | green | male
+27 | Calderon,Frankie | green | female
+27 | Cohen,Julia | brown | female
+27 | Dillard,Pamela | brown | female
+27 | George,Beulah | blue | female
+27 | Hays,Olive | blue | female
+27 | Hooper,Mcmahon | green | male
+27 | Hyde,Joyner | blue | male
+27 | Mccall,Turner | blue | male
+27 | Mclaughlin,Greene | green | male
+27 | Myers,Henry | green | male
+27 | Watson,Wood | green | male
+27 | Wyatt,Rios | brown | male
+26 | Burch,Ramsey | brown | male
+26 | Daniel,Hull | green | male
+26 | Frederick,Geraldine | brown | female
+26 | Gallagher,Harmon | blue | male
+26 | Gallegos,Robertson | blue | male
+26 | Galloway,Aline | green | female
+26 | Garner,Lowery | brown | male
+26 | Hurst,Boyd | green | male
+26 | Morgan,Nannie | green | female
+26 | Owen,Cobb | brown | male
+26 | Randall,Lowe | green | male
+26 | Richmond,Stephens | brown | male
+26 | Santos,Harrison | blue | male
+26 | Serrano,Virgie | green | female
+26 | Shepard,Mckenzie | green | male
+26 | Welch,Deann | brown | female
+25 | Bass,Morin | blue | male
+25 | Buckley,Kate | blue | female
+25 | Harding,Baxter | blue | male
+25 | Harrington,Keri | blue | female
+25 | Hess,Gallegos | brown | male
+25 | Howe,Delgado | blue | male
+25 | Howe,Jayne | blue | female
+25 | Klein,England | green | male
+25 | Knowles,Goodman | green | male
+25 | Mcbride,Cote | green | male
+25 | Morris,Donovan | green | male
+25 | Stephens,Gross | brown | male
+24 | Chan,Bradshaw | brown | male
+24 | England,Tanner | brown | male
+24 | Gill,Socorro | green | female
+24 | Griffin,Christine | brown | female
+24 | Hanson,Karin | green | female
+24 | Hickman,Bentley | green | male
+24 | Hill,Jeanette | green | female
+24 | Marquez,Solis | green | male
+24 | Prince,Rachelle | green | female
+24 | Strong,Hollie | blue | female
+24 | Vang,Bernice | blue | female
+23 | Abbott,Erika | green | female
+23 | Blake,Consuelo | blue | female
+23 | Briggs,Mccarthy | green | male
+23 | Burch,Webb | blue | male
+23 | Carlson,Livingston | green | male
+23 | Craig,Price | blue | male
+23 | Fields,Nita | brown | female
+23 | Galloway,Glass | blue | male
+23 | Keller,Rose | green | female
+23 | Landry,Shelton | brown | male
+23 | Mcpherson,Jarvis | blue | male
+23 | Mercado,Tara | blue | female
+23 | Molina,Brooks | green | male
+23 | Oneal,Jamie | brown | female
+23 | Rosario,Corine | blue | female
+23 | Snyder,Tami | blue | female
+23 | Stout,Swanson | brown | male
+22 | Alvarez,Kristin | green | female
+22 | Avila,Houston | green | male
+22 | Bean,Terry | blue | female
+22 | Chase,Wilder | green | male
+22 | Heath,Stein | green | male
+22 | Holland,Dawson | blue | male
+22 | Ingram,Lara | brown | male
+22 | Johns,Knight | green | male
+22 | Lee,Alison | brown | female
+22 | Lee,Rosalind | blue | female
+22 | Noble,Helga | brown | female
+22 | Norman,Olson | blue | male
+22 | Oneal,Carney | brown | male
+22 | Padilla,Christy | brown | female
+22 | Pugh,Melissa | brown | female
+22 | Reyes,Stanton | blue | male
+22 | Rowe,Franklin | brown | male
+22 | Shepherd,Romero | blue | male
+22 | Walsh,Josephine | green | female
+22 | York,Doreen | blue | female
+21 | Ayala,Iris | blue | female
+21 | Bailey,Oneill | green | male
+21 | Berry,Marilyn | brown | female
+21 | Coffey,William | green | male
+21 | Durham,Griffith | green | male
+21 | Horton,Welch | green | male
+21 | Molina,Haney | brown | male
+21 | Orr,Hoffman | green | male
+21 | Ortiz,Heath | brown | male
+21 | Phillips,Parsons | blue | male
+21 | Roman,Golden | green | male
+21 | Warner,Britney | green | female
+21 | Wood,Helene | blue | female
+20 | Armstrong,Flora | brown | female
+20 | Barry,Green | green | male
+20 | Butler,Watts | brown | male
+20 | Donaldson,Arline | green | female
+20 | Ellison,Concetta | green | female
+20 | Graves,Jessie | green | female
+20 | Holder,Martina | blue | female
+20 | Holland,Gale | brown | female
+20 | Hubbard,Tommie | brown | female
+20 | Leblanc,Clarissa | green | female
+20 | Mccarty,Mcclain | green | male
+20 | Mcguire,Monique | green | female
+20 | Mckenzie,Long | brown | male
+20 | Quinn,Lynch | green | male
+20 | Rowland,Sallie | brown | female
+20 | Schwartz,Stokes | blue | male
+20 | Thomas,Leanne | green | female
+20 | Vance,Britt | blue | male
+20 | Whitfield,Shari | brown | female
+19 | Collier,Lavonne | green | female
+19 | Conrad,Hayden | blue | male
+19 | Cote,Alisha | brown | female
+19 | Curtis,Mcgowan | green | male
+19 | Foster,Cook | green | male
+19 | Gilliam,Enid | green | female
+19 | Green,Elsie | blue | female
+19 | Griffin,Hurley | blue | male
+19 | Hendrix,Rosemarie | blue | female
+19 | Jefferson,Carly | brown | female
+19 | Lewis,Sylvia | green | female
+19 | Newman,Barnes | green | male
+19 | Ochoa,Rosemary | brown | female
+19 | Riggs,Potts | brown | male
+19 | Sloan,Bass | blue | male
+19 | Small,Carlene | brown | female
+19 | Thornton,Green | green | male
+19 | Walker,Dennis | blue | male
+18 | Battle,Mcintyre | brown | male
+18 | Burks,Vang | blue | male
+18 | Burton,Elvia | green | female
+18 | Cunningham,Shanna | blue | female
+18 | Farley,Good | brown | male
+18 | Goodwin,Wallace | blue | male
+18 | Hicks,Mariana | green | female
+18 | Hyde,Chasity | blue | female
+18 | Juarez,Mercer | blue | male
+18 | Knight,Cathleen | green | female
+18 | Knox,Newman | brown | male
+18 | Koch,Walls | blue | male
+18 | Mccall,Erma | green | female
+18 | Mckee,Ruth | brown | female
+18 | Meadows,Johanna | blue | female
+18 | Stone,Frazier | blue | male
+18 | Swanson,Deleon | blue | male
+18 | Turner,Bertie | blue | female
+18 | Whitley,Howard | brown | male
+18 | Whitney,Lacy | brown | female
+18 | Wilder,Charlene | blue | female
+17 | Avery,Mills | brown | male
+17 | Berry,Virginia | brown | female
+17 | Blanchard,Cline | brown | male
+17 | Christensen,Sonia | blue | female
+17 | Cooley,Marcella | green | female
+17 | Fitzgerald,Darlene | brown | female
+17 | Hebert,Adele | brown | female
+17 | Kemp,Vilma | blue | female
+17 | Mays,Parrish | blue | male
+17 | Michael,Brittney | green | female
+16 | Albert,Rasmussen | blue | male
+16 | Beasley,Hutchinson | brown | male
+16 | Brady,Marie | green | female
+16 | Charles,Sanford | blue | male
+16 | Ferguson,Alba | green | female
+16 | Haynes,Baxter | blue | male
+16 | Hester,Gibson | brown | male
+16 | Howell,Eleanor | blue | female
+16 | Kim,Kirk | blue | male
+16 | Knowles,Lambert | green | male
+16 | Lowery,Nellie | brown | female
+16 | Morin,Glenda | brown | female
+16 | Oliver,Gena | green | female
+16 | Ray,Henderson | blue | male
+15 | Bridges,Simon | brown | male
+15 | Carlson,Noble | brown | male
+15 | Downs,Adrienne | green | female
+15 | Evans,Soto | green | male
+15 | Ferrell,Alejandra | green | female
+15 | Fitzpatrick,Leila | brown | female
+15 | Franco,Elaine | blue | female
+15 | Harrington,Doris | brown | female
+15 | Hewitt,Kaitlin | brown | female
+15 | Kent,Gregory | green | male
+15 | Lowery,Riddle | brown | male
+15 | Newman,Watson | green | male
+15 | Peters,Janice | brown | female
+15 | Phillips,Brianna | green | female
+15 | Reeves,Vaughan | brown | male
+15 | Santiago,Lang | green | male
+15 | Shelton,Mable | blue | female
+15 | Snyder,Leonor | blue | female
+15 | Summers,Meredith | blue | female
+14 | Dyer,Graves | green | male
+14 | Fischer,Bridgett | brown | female
+14 | Frederick,Janelle | blue | female
+14 | Golden,Lottie | blue | female
+14 | Hardy,Toni | brown | female
+14 | Head,Susan | blue | female
+14 | Kidd,Atkins | brown | male
+14 | Mcfarland,Nieves | brown | male
+14 | Olson,Shanna | blue | female
+14 | Oneal,Mitchell | green | male
+14 | Pena,Tanner | brown | male
+14 | Stephens,Austin | brown | male
+14 | Terry,Kelley | brown | male
+14 | Tran,Hale | brown | male
+13 | Bartlett,Wilcox | green | male
+13 | Bass,Marcie | blue | female
+13 | Case,Hogan | brown | male
+13 | Glenn,Luisa | brown | female
+13 | Guy,Garcia | blue | male
+13 | Harris,Clayton | green | male
+13 | Miranda,Booker | blue | male
+13 | Moses,Casey | green | male
+13 | Parker,Edwina | brown | female
+13 | Roberson,Antonia | green | female
+13 | Spence,Norton | green | male
+13 | Sweet,Berger | brown | male
+13 | Walls,Cline | green | male
+13 | Washington,Lourdes | green | female
+13 | Wolf,Annie | green | female
+12 | Barber,Patrick | brown | male
+12 | Barry,Hendrix | green | male
+12 | Collins,Renee | blue | female
+12 | Cooper,Shaffer | brown | male
+12 | Fields,Swanson | green | male
+12 | Fischer,Sexton | brown | male
+12 | Flores,Williamson | green | male
+12 | Gilmore,Ernestine | blue | female
+12 | Herrera,Rae | blue | female
+12 | Hutchinson,Regina | brown | female
+12 | Irwin,Melendez | blue | male
+12 | Mcknight,Tracey | blue | female
+12 | Wall,Selma | brown | female
+12 | Warren,Bobbie | blue | female
+11 | Booker,Conner | green | male
+11 | Decker,Ofelia | brown | female
+11 | Ferguson,Stewart | blue | male
+11 | Fernandez,Buck | brown | male
+11 | Garrett,Conner | green | male
+11 | Gordon,Esther | green | female
+11 | Holman,Booker | green | male
+11 | Holmes,Selena | green | female
+11 | House,Eve | brown | female
+11 | Logan,Janette | green | female
+11 | Mckinney,Mccarty | green | male
+11 | Mercer,Lucille | green | female
+11 | Osborne,Velazquez | blue | male
+11 | Rose,Serrano | brown | male
+11 | Sharpe,Tabatha | brown | female
+11 | Strong,Bernard | brown | male
+11 | Torres,Holloway | brown | male
+11 | Travis,Lou | green | female
+11 | Vincent,Dona | blue | female
+11 | Walker,Lupe | green | female
+11 | Walton,Shirley | brown | female
+10 | Brock,Monica | green | female
+10 | Bruce,Banks | green | male
+10 | Dennis,Mckinney | brown | male
+10 | Diaz,Benita | blue | female
+10 | Huber,Savage | green | male
+10 | Humphrey,Everett | blue | male
+10 | Levine,Cassie | green | female
+10 | Matthews,Deanne | blue | female
+10 | Smith,Garza | green | male
+10 | Solis,Delia | brown | female
+10 | Washington,Jo | green | female
+
+### Answer of Query 2 ###
+1000
+
+### Answer of Query 3 ###
+70 | Hurst,Osborn | blue | male
+70 | Kennedy,Christa | blue | female
+70 | Poole,Park | blue | male
+68 | Collier,Tonia | blue | female
+68 | Hopkins,Sonja | blue | female
+67 | Gentry,Russell | blue | male
+66 | Allen,Karen | blue | female
+66 | Chavez,Avila | blue | male
+66 | Welch,Ina | blue | female
+65 | Cotton,Bennett | blue | male
+64 | Cantrell,Mcfadden | blue | male
+64 | Douglas,Deana | blue | female
+64 | Mcguire,Ann | blue | female
+64 | Witt,Marshall | blue | male
+63 | Harmon,Guerrero | blue | male
+63 | Sargent,Cash | blue | male
+63 | Watts,Beatriz | blue | female
+62 | Hinton,Bartlett | blue | male
+62 | Mcfarland,Collier | blue | male
+62 | Mcpherson,Gertrude | blue | female
+62 | Whitehead,Acosta | blue | male
+61 | Hutchinson,Carmen | blue | female
+59 | Bruce,Giles | blue | male
+59 | Henson,Katharine | blue | female
+58 | Brennan,Kaye | blue | female
+58 | Lopez,Dawn | blue | female
+58 | Sims,Harris | blue | male
+57 | Chapman,Sanders | blue | male
+57 | Francis,Jerry | blue | female
+57 | Mcgee,Cameron | blue | male
+57 | Moon,Stacey | blue | female
+57 | Nicholson,Kane | blue | male
+57 | Scott,Benjamin | blue | male
+57 | Smith,Strickland | blue | male
+57 | Tillman,Maxwell | blue | male
+56 | Dillard,Erin | blue | female
+56 | Manning,Hill | blue | male
+56 | Parsons,Megan | blue | female
+56 | Poole,Angel | blue | female
+55 | Becker,Tisha | blue | female
+55 | Cardenas,Horn | blue | male
+55 | Joseph,Franks | blue | male
+55 | Mason,Lynda | blue | female
+55 | Morton,Gilda | blue | female
+55 | Rose,Montoya | blue | male
+55 | Webb,Burgess | blue | male
+54 | Black,Marlene | blue | female
+54 | Browning,Conway | blue | male
+54 | Gibson,Therese | blue | female
+54 | Kirk,Rachael | blue | female
+53 | Buchanan,Josie | blue | female
+53 | Burt,Sally | blue | female
+53 | Gill,Nanette | blue | female
+53 | Lamb,Carolina | blue | female
+52 | Cox,Dean | blue | male
+51 | Burgess,Marta | blue | female
+51 | Cabrera,Fern | blue | female
+51 | Jimenez,Peck | blue | male
+51 | Mckee,Lillian | blue | female
+50 | Adams,Holder | blue | male
+50 | Conley,Maritza | blue | female
+50 | Patel,Johnson | blue | male
+48 | Ayers,Lynch | blue | male
+48 | Evans,Claudette | blue | female
+48 | Fleming,Edwina | blue | female
+48 | Madden,Schwartz | blue | male
+47 | Burks,Yvette | blue | female
+47 | Grant,Hillary | blue | female
+47 | Kline,Roth | blue | male
+47 | Mullins,Rich | blue | male
+47 | Park,Shepard | blue | male
+47 | Valdez,Sears | blue | male
+46 | Ballard,Stuart | blue | male
+46 | Casey,Payne | blue | male
+46 | Clarke,Genevieve | blue | female
+46 | Franco,Stafford | blue | male
+46 | Higgins,Nielsen | blue | male
+46 | Huffman,Foley | blue | male
+46 | Jennings,Hallie | blue | female
+46 | Sanford,Crosby | blue | male
+46 | Tanner,Joanne | blue | female
+45 | Duffy,Melinda | blue | female
+45 | Gonzalez,Freida | blue | female
+45 | Patrick,Diann | blue | female
+45 | Scott,Fanny | blue | female
+44 | Bender,Roseann | blue | female
+44 | Justice,Mcconnell | blue | male
+44 | Salazar,Jan | blue | female
+43 | Edwards,Hodges | blue | male
+43 | Hammond,Hess | blue | male
+43 | Sykes,Jenny | blue | female
+42 | Harvey,Viola | blue | female
+42 | Larson,Francine | blue | female
+41 | Patton,Ronda | blue | female
+41 | Shepard,Charles | blue | male
+40 | Dunlap,Vonda | blue | female
+40 | Perez,Savannah | blue | female
+39 | Clark,Effie | blue | female
+39 | Head,Marci | blue | female
+39 | Huber,Lowe | blue | male
+39 | Pennington,Margarita | blue | female
+39 | Ramos,Carrillo | blue | male
+39 | Snow,Orr | blue | male
+38 | Chen,Laurel | blue | female
+38 | Gilbert,Watson | blue | male
+37 | Blankenship,Cardenas | blue | male
+37 | Clark,Cynthia | blue | female
+37 | Hatfield,Paulette | blue | female
+36 | Castro,Jana | blue | female
+36 | Hunt,Christa | blue | female
+36 | Mueller,Raquel | blue | female
+35 | Everett,Hickman | blue | male
+35 | Puckett,Valencia | blue | male
+35 | Ward,Nixon | blue | male
+34 | Bartlett,Gilmore | blue | male
+34 | Hester,Castillo | blue | male
+34 | Maddox,Katrina | blue | female
+34 | Neal,Reid | blue | male
+34 | Shields,Karyn | blue | female
+32 | Palmer,Lorna | blue | female
+31 | Ball,Mcgee | blue | male
+31 | Cobb,Charlotte | blue | female
+31 | Michael,Walters | blue | male
+31 | Roth,Margaret | blue | female
+31 | Sanders,Stephanie | blue | female
+31 | Wright,Shawn | blue | female
+
+### Answer of Query 4 ###
+126
+
+### Answer of Query 5 ###
+16 | Ray,Henderson | blue | male | 1
+27 | Myers,Henry | green | male | 1
+32 | Palmer,Lorna | blue | female | 1
+18 | Hicks,Mariana | green | female | 2
+39 | Bartlett,Jean | brown | female | 1
+55 | Rose,Montoya | blue | male | 2
+46 | Shaffer,Taylor | green | male | 2
+68 | Pitts,Stephenson | green | male | 2
+65 | Zimmerman,Gale | brown | female | 2
+62 | Underwood,Colon | green | male | 1
+58 | Sims,Harris | blue | male | 1
+41 | Morrow,Stevenson | brown | male | 2
+30 | Roy,Susie | brown | female | 1
+62 | Rios,Glenn | brown | male | 2
+50 | Conley,Maritza | blue | female | 1
+55 | Cardenas,Horn | blue | male | 2
+46 | Patel,Gaines | green | male | 2
+57 | Mercado,Isabel | brown | female | 2
+11 | Decker,Ofelia | brown | female | 1
+48 | Dawson,Jolene | brown | female | 1
+64 | Glover,Josefina | brown | female | 2
+21 | Warner,Britney | green | female | 2
+27 | Mccall,Turner | blue | male | 1
+18 | Whitley,Howard | brown | male | 1
+29 | Delacruz,Kimberly | brown | female | 1
+69 | Boyle,Juana | brown | female | 1
+41 | Barnett,Dina | brown | female | 1
+41 | Simpson,Cassie | brown | female | 1
+29 | Tyler,Isabelle | brown | female | 1
+21 | Horton,Welch | green | male | 1
+18 | Swanson,Deleon | blue | male | 2
+15 | Carlson,Noble | brown | male | 2
+20 | Leblanc,Clarissa | green | female | 1
+36 | Wheeler,Morgan | brown | female | 1
+28 | Garza,West | blue | male | 2
+12 | Fields,Swanson | green | male | 2
+70 | Goff,Levy | green | male | 1
+55 | Pruitt,Wiley | green | male | 1
+18 | Stone,Frazier | blue | male | 1
+23 | Blake,Consuelo | blue | female | 2
+21 | Coffey,William | green | male | 2
+14 | Mcfarland,Nieves | brown | male | 1
+48 | Bush,Phoebe | green | female | 1
+70 | Pierce,Hendricks | green | male | 2
+53 | Mclean,Burgess | green | male | 2
+56 | Williams,Weeks | blue | male | 1
+14 | Pena,Tanner | brown | male | 2
+45 | Short,Cassandra | green | female | 2
+34 | Pace,Beck | blue | male | 2
+22 | Ingram,Lara | brown | male | 1
+51 | Sexton,Tiffany | green | female | 1
+40 | Russo,Sexton | brown | male | 1
+67 | Vaughn,Leticia | green | female | 2
+18 | Turner,Bertie | blue | female | 2
+42 | Weiss,Randi | green | female | 2
+26 | Gallegos,Robertson | blue | male | 1
+30 | Mcclain,Gina | blue | female | 1
+70 | Carpenter,Staci | brown | female | 2
+28 | Kline,Herman | brown | male | 2
+39 | Ramos,Carrillo | blue | male | 1
+65 | Cotton,Bennett | blue | male | 1
+16 | Hester,Gibson | brown | male | 1
+19 | Riggs,Potts | brown | male | 2
+31 | Michael,Walters | blue | male | 1
+26 | Hurst,Boyd | green | male | 2
+57 | Solomon,Riley | brown | male | 1
+28 | Gould,Molina | brown | male | 2
+33 | House,Leanna | blue | female | 1
+43 | Pacheco,Brady | green | male | 1
+69 | Alvarez,Gwendolyn | green | female | 1
+45 | Mayer,Shana | brown | female | 1
+30 | Jarvis,Mary | brown | female | 1
+39 | Kramer,Beulah | blue | female | 1
+25 | Bass,Morin | blue | male | 2
+37 | Hatfield,Paulette | blue | female | 1
+59 | Walter,Guy | blue | male | 2
+31 | Montoya,Dominguez | brown | male | 2
+46 | Franco,Stafford | blue | male | 2
+41 | Beard,Leanne | blue | female | 2
+53 | Buchanan,Josie | blue | female | 2
+57 | Alvarado,Ellison | brown | male | 1
+44 | Skinner,Nunez | green | male | 2
+69 | Carter,Koch | green | male | 1
+37 | Gilmore,Dorothea | brown | female | 1
+49 | Kane,Marcie | blue | female | 2
+70 | Lopez,Sophie | blue | female | 2
+30 | Blair,Patricia | green | female | 1
+64 | Combs,Harvey | green | male | 2
+23 | Snyder,Tami | blue | female | 2
+46 | Bullock,Karla | brown | female | 2
+59 | Bryan,Ernestine | brown | female | 1
+24 | Hill,Jeanette | green | female | 1
+55 | Morton,Gilda | blue | female | 1
+45 | Allison,Ellen | green | female | 1
+19 | Foster,Cook | green | male | 2
+22 | York,Doreen | blue | female | 1
+39 | Huber,Lowe | blue | male | 1
+14 | Frederick,Janelle | blue | female | 2
+70 | Poole,Park | blue | male | 2
+64 | Douglas,Deana | blue | female | 2
+56 | Sullivan,Maxine | blue | female | 1
+42 | Ware,Avery | green | male | 1
+47 | Carroll,Patti | green | female | 1
+14 | Olson,Shanna | blue | female | 1
+52 | Barr,Joanna | brown | female | 1
+33 | Mcmahon,Talley | green | male | 2
+15 | Downs,Adrienne | green | female | 2
+57 | Mcgee,Cameron | blue | male | 2
+48 | Fleming,Edwina | blue | female | 1
+70 | Chambers,Britt | green | male | 1
+22 | Heath,Stein | green | male | 1
+54 | Roach,Susanna | blue | female | 2
+23 | Craig,Price | blue | male | 1
+70 | Fisher,Marianne | green | female | 2
+31 | Wright,Shawn | blue | female | 1
+37 | Calhoun,Briana | brown | female | 1
+19 | Sloan,Bass | blue | male | 2
+34 | Oliver,Chrystal | brown | female | 2
+22 | Noble,Helga | brown | female | 2
+63 | Brock,Burke | brown | male | 2
+59 | Santana,Cherie | blue | female | 1
+53 | Bolton,Chaney | brown | male | 1
+39 | Ratliff,Marva | brown | female | 1
+34 | Good,Kerr | green | male | 1
+50 | Donaldson,Finley | brown | male | 2
+31 | Haley,Simone | brown | female | 1
+27 | Mclaughlin,Greene | green | male | 2
+52 | Leonard,Beasley | brown | male | 1
+41 | Mcleod,Puckett | brown | male | 1
+47 | Pate,Lori | green | female | 1
+20 | Mccarty,Mcclain | green | male | 2
+13 | Walls,Cline | green | male | 2
+42 | Norman,Rojas | brown | male | 1
+57 | Smith,Strickland | blue | male | 1
+26 | Serrano,Virgie | green | female | 1
+49 | Gutierrez,Jasmine | brown | female | 1
+37 | Henson,Celina | brown | female | 1
+25 | Mcbride,Cote | green | male | 2
+51 | Carr,Nielsen | brown | male | 1
+38 | Chen,Christine | green | female | 1
+19 | Griffin,Hurley | blue | male | 1
+51 | Hoffman,Calderon | green | male | 1
+23 | Landry,Shelton | brown | male | 2
+15 | Hewitt,Kaitlin | brown | female | 2
+22 | Padilla,Christy | brown | female | 1
+46 | Huffman,Foley | blue | male | 2
+64 | Gates,Olivia | blue | female | 1
+11 | Mckinney,Mccarty | green | male | 1
+43 | Sykes,Jenny | blue | female | 2
+65 | Bean,Jill | green | female | 1
+63 | Middleton,Charlotte | green | female | 1
+58 | Guthrie,Bonita | brown | female | 2
+20 | Mckenzie,Long | brown | male | 1
+10 | Washington,Jo | green | female | 2
+59 | Richardson,Gabriela | green | female | 2
+65 | Hall,Meadows | blue | male | 1
+26 | Gallagher,Harmon | blue | male | 2
+19 | Jefferson,Carly | brown | female | 1
+36 | Silva,Bradshaw | blue | male | 1
+37 | Clark,Cynthia | blue | female | 2
+59 | Nichols,Deidre | green | female | 2
+59 | Bennett,Robles | blue | male | 1
+53 | Stanley,Cecilia | green | female | 2
+30 | Reyes,Ward | blue | male | 1
+60 | Rogers,Debora | brown | female | 2
+18 | Burton,Elvia | green | female | 2
+34 | Huff,Sweeney | brown | male | 2
+28 | Mills,Elba | green | female | 2
+27 | Wyatt,Rios | brown | male | 2
+15 | Santiago,Lang | green | male | 1
+64 | Witt,Marshall | blue | male | 1
+49 | Wilkins,Ginger | blue | female | 1
+59 | Wagner,Phyllis | blue | female | 2
+48 | Snow,Sykes | blue | male | 1
+19 | Collier,Lavonne | green | female | 2
+41 | Shepard,Charles | blue | male | 2
+45 | Riley,Antoinette | brown | female | 1
+58 | Griffith,Bridges | blue | male | 1
+32 | Gonzalez,Sellers | green | male | 2
+52 | Gill,Socorro | brown | female | 2
+20 | Schwartz,Stokes | blue | male | 1
+43 | Jacobs,Molly | green | female | 1
+65 | Cain,Dillon | brown | male | 1
+29 | Salazar,Tyson | blue | male | 2
+54 | Trujillo,Avis | green | female | 1
+55 | Garrison,Sasha | green | female | 2
+43 | Dejesus,Lopez | brown | male | 2
+20 | Hubbard,Tommie | brown | female | 2
+41 | Barrett,Allyson | green | female | 2
+19 | Newman,Barnes | green | male | 2
+64 | Cantu,Rivas | brown | male | 2
+31 | Kirkland,Mai | green | female | 1
+56 | Manning,Hill | blue | male | 1
+38 | Gilbert,Watson | blue | male | 1
+41 | Patton,Ronda | blue | female | 2
+34 | Luna,Fitzpatrick | blue | male | 1
+68 | Levy,Nadia | green | female | 2
+70 | Kinney,Michael | blue | male | 2
+11 | Osborne,Velazquez | blue | male | 2
+63 | Harmon,Guerrero | blue | male | 1
+61 | Maynard,Felicia | brown | female | 2
+38 | Romero,Alvarado | blue | male | 2
+26 | Welch,Deann | brown | female | 2
+59 | Rivers,Lynn | brown | female | 2
+10 | Humphrey,Everett | blue | male | 2
+37 | Greene,Chapman | brown | male | 2
+57 | Dudley,Lupe | brown | female | 1
+16 | Howell,Eleanor | blue | female | 2
+64 | Cantrell,Mcfadden | blue | male | 2
+53 | Wilcox,Sofia | brown | female | 1
+50 | Patterson,Nichole | brown | female | 2
+34 | Shields,Karyn | blue | female | 2
+37 | Mitchell,Gentry | blue | male | 1
+14 | Stephens,Austin | brown | male | 1
+53 | Garner,Rosanne | blue | female | 2
+46 | Tanner,Joanne | blue | female | 1
+70 | Vincent,Foster | green | male | 2
+16 | Ferguson,Alba | green | female | 1
+51 | Howard,Cash | green | male | 1
+48 | Boyd,Willie | blue | female | 2
+34 | Wood,Wooten | green | male | 2
+56 | Parsons,Megan | blue | female | 2
+33 | Pope,Aimee | green | female | 2
+66 | Branch,Nona | brown | female | 1
+31 | Roth,Margaret | blue | female | 2
+42 | Rojas,Bishop | blue | male | 1
+54 | Browning,Conway | blue | male | 1
+61 | Hutchinson,Carmen | blue | female | 1
+22 | Holland,Dawson | blue | male | 2
+42 | Hernandez,Maria | blue | female | 1
+48 | Stuart,Sears | green | male | 1
+39 | Rosales,Sheri | green | female | 2
+34 | Bartlett,Gilmore | blue | male | 1
+11 | Rose,Serrano | brown | male | 2
+54 | Shaffer,Lott | brown | male | 2
+34 | Aguilar,Odonnell | blue | male | 1
+13 | Sweet,Berger | brown | male | 2
+70 | Cross,Holland | green | male | 1
+48 | Reynolds,Hines | green | male | 1
+70 | Roy,Gallagher | brown | male | 1
+65 | Rios,Hopper | green | male | 1
+42 | Cervantes,Lynne | blue | female | 2
+58 | Cote,Dolores | green | female | 2
+38 | Patel,Loretta | brown | female | 2
+48 | Valenzuela,Berry | brown | male | 1
+35 | Jones,Jody | green | female | 2
+40 | Parrish,Bernadette | green | female | 1
+29 | Frank,Madge | brown | female | 1
+18 | Knight,Cathleen | green | female | 2
+19 | Green,Elsie | blue | female | 2
+62 | Villarreal,Collins | blue | male | 1
+18 | Mccall,Erma | green | female | 2
+41 | Maddox,Tamra | brown | female | 2
+51 | Boyle,Florine | brown | female | 2
+28 | Hart,Juarez | brown | male | 1
+39 | Long,Desiree | brown | female | 2
+28 | Cummings,Leta | brown | female | 1
+62 | Whitehead,Acosta | blue | male | 1
+34 | Neal,Reid | blue | male | 1
+35 | Hayden,Minnie | brown | female | 2
+23 | Carlson,Livingston | green | male | 2
+56 | Garza,Elma | brown | female | 1
+63 | Rush,Alston | brown | male | 1
+34 | Chang,Beatrice | brown | female | 1
+43 | Lynn,Coleman | brown | male | 1
+57 | Chapman,Sanders | blue | male | 2
+14 | Tran,Hale | brown | male | 2
+42 | James,Martha | green | female | 2
+36 | Flowers,Browning | brown | male | 1
+44 | Justice,Mcconnell | blue | male | 1
+46 | Short,Carmella | brown | female | 2
+48 | Pace,Torres | brown | male | 1
+39 | Ramirez,Margo | brown | female | 1
+58 | Mendoza,Hammond | blue | male | 1
+45 | Espinoza,Joyce | green | male | 2
+66 | Vaughn,Robbins | green | male | 1
+48 | Madden,Schwartz | blue | male | 1
+50 | Adams,Holder | blue | male | 1
+52 | Weiss,Georgette | blue | female | 2
+31 | Ewing,Cherry | brown | male | 2
+34 | Kline,Joni | brown | female | 2
+37 | Robles,Billie | green | female | 1
+66 | Sparks,Hunt | brown | male | 2
+17 | Michael,Brittney | green | female | 1
+55 | Noel,Mcneil | green | male | 1
+17 | Berry,Virginia | brown | female | 1
+11 | House,Eve | brown | female | 2
+16 | Charles,Sanford | blue | male | 2
+48 | Rowe,Wells | green | male | 1
+65 | Alvarez,Terrie | brown | female | 2
+62 | Mcpherson,Gertrude | blue | female | 1
+55 | Holloway,May | green | male | 1
+69 | Frye,Marla | brown | female | 2
+43 | Mayer,Munoz | brown | male | 2
+48 | Walter,Sheila | brown | female | 1
+15 | Franco,Elaine | blue | female | 2
+59 | Beard,Allen | brown | male | 2
+55 | Buchanan,Acevedo | blue | male | 1
+63 | Valencia,Robert | green | female | 2
+67 | Skinner,Myra | brown | female | 1
+37 | Nguyen,Constance | brown | female | 1
+18 | Wilder,Charlene | blue | female | 1
+15 | Snyder,Leonor | blue | female | 1
+40 | Dunlap,Vonda | blue | female | 2
+13 | Case,Hogan | brown | male | 1
+41 | Meyers,Lindsay | blue | male | 2
+54 | Morton,Schneider | green | male | 2
+31 | Lawson,Elvira | green | female | 1
+41 | Estrada,Marquez | blue | male | 2
+35 | Ward,Nixon | blue | male | 1
+45 | Melton,Ashlee | green | female | 2
+10 | Huber,Savage | green | male | 1
+37 | Bentley,Mcdonald | blue | male | 1
+45 | Barker,Linda | green | female | 1
+26 | Frederick,Geraldine | brown | female | 2
+30 | Maldonado,Lena | green | female | 1
+37 | Bryant,Edna | blue | female | 1
+56 | Poole,Angel | blue | female | 2
+30 | Beasley,Deirdre | brown | female | 2
+27 | Benton,Hurst | green | male | 2
+68 | Hopkins,Sonja | blue | female | 1
+36 | Lucas,Gonzalez | green | male | 1
+56 | Garrett,John | brown | female | 2
+42 | Olson,Greta | brown | female | 1
+29 | Barr,Ebony | brown | female | 2
+64 | Norton,Larson | green | male | 2
+34 | Spencer,Cruz | blue | male | 2
+11 | Sharpe,Tabatha | brown | female | 2
+18 | Meadows,Johanna | blue | female | 2
+44 | Bender,Roseann | blue | female | 2
+29 | Fisher,Holmes | brown | male | 1
+65 | Deleon,Lucinda | brown | female | 1
+25 | Knowles,Goodman | green | male | 2
+34 | Sloan,Trujillo | blue | male | 2
+37 | Nieves,Ophelia | green | female | 1
+10 | Brock,Monica | green | female | 1
+21 | Bailey,Oneill | green | male | 2
+23 | Burch,Webb | blue | male | 2
+57 | Stevenson,Juliana | green | female | 1
+66 | Chavez,Avila | blue | male | 1
+18 | Koch,Walls | blue | male | 2
+20 | Donaldson,Arline | green | female | 1
+15 | Reeves,Vaughan | brown | male | 1
+24 | Hickman,Bentley | green | male | 2
+13 | Wolf,Annie | green | female | 1
+36 | Singleton,Lindsey | brown | female | 1
+35 | Farrell,Owen | blue | male | 1
+45 | Benson,Abby | green | female | 2
+53 | Holt,Madeleine | brown | female | 1
+12 | Cooper,Shaffer | brown | male | 1
+40 | Gardner,Magdalena | blue | female | 1
+23 | Briggs,Mccarthy | green | male | 2
+32 | Marks,Love | green | male | 1
+22 | Shepherd,Romero | blue | male | 2
+15 | Harrington,Doris | brown | female | 2
+66 | Foley,Corina | brown | female | 2
+46 | Sanford,Crosby | blue | male | 2
+15 | Ferrell,Alejandra | green | female | 2
+12 | Flores,Williamson | green | male | 2
+28 | Griffin,Ingram | blue | male | 2
+61 | Eaton,Campbell | brown | male | 2
+39 | Ayers,Rowland | green | male | 2
+66 | Mcclure,Cox | brown | male | 1
+50 | Mooney,Barker | green | male | 1
+39 | Paul,Sharron | green | female | 1
+63 | Gates,Lawson | brown | male | 2
+12 | Collins,Renee | blue | female | 1
+45 | Scott,Fanny | blue | female | 2
+23 | Galloway,Glass | blue | male | 2
+69 | Boyer,Barbara | brown | female | 2
+22 | Avila,Houston | green | male | 1
+55 | Mason,Lynda | blue | female | 1
+37 | Johnson,Barrett | blue | male | 1
+31 | Dean,Wilkins | blue | male | 2
+28 | Reed,Aileen | blue | female | 2
+22 | Lee,Rosalind | blue | female | 1
+53 | Lamb,Carolina | blue | female | 2
+54 | Gibson,Therese | blue | female | 1
+43 | Dickerson,Morgan | green | male | 1
+68 | Murray,Mallory | brown | female | 2
+53 | Bates,Landry | blue | male | 1
+45 | Salinas,Pacheco | brown | male | 2
+39 | Clark,Effie | blue | female | 2
+17 | Avery,Mills | brown | male | 2
+49 | Vega,Hawkins | brown | male | 1
+12 | Barber,Patrick | brown | male | 2
+59 | Huff,Joyce | green | female | 1
+45 | Patrick,Diann | blue | female | 2
+31 | Santiago,Crystal | brown | female | 1
+43 | Witt,Eaton | blue | male | 1
+29 | Wilkins,Sara | brown | female | 2
+35 | Puckett,Valencia | blue | male | 1
+70 | Powers,Davenport | brown | male | 2
+46 | Joyce,Lela | green | female | 1
+27 | Cohen,Julia | brown | female | 1
+47 | Grant,Hillary | blue | female | 2
+20 | Butler,Watts | brown | male | 2
+20 | Mcguire,Monique | green | female | 1
+53 | Gill,Nanette | blue | female | 2
+29 | Torres,Shannon | green | male | 2
+33 | Mcmillan,Denise | brown | female | 1
+47 | Richards,Schroeder | green | male | 2
+59 | Andrews,Fuentes | brown | male | 2
+11 | Fernandez,Buck | brown | male | 2
+38 | Bernard,Lorie | green | female | 2
+30 | Day,Annmarie | blue | female | 1
+43 | Houston,Yvonne | brown | female | 1
+66 | Elliott,Mari | green | female | 1
+32 | Small,Hooper | green | male | 1
+22 | Chase,Wilder | green | male | 1
+42 | Newman,Robbie | brown | female | 1
+10 | Diaz,Benita | blue | female | 1
+69 | Perry,Suzette | green | female | 1
+37 | Mayo,Galloway | green | male | 2
+54 | Odonnell,Ortiz | green | male | 2
+23 | Rosario,Corine | blue | female | 2
+55 | Simon,Letha | brown | female | 2
+11 | Holmes,Selena | green | female | 1
+15 | Kent,Gregory | green | male | 1
+45 | Gray,Lorena | blue | female | 1
+44 | Rasmussen,Catalina | brown | female | 1
+40 | Glenn,Bridget | brown | female | 1
+67 | Kinney,Rush | green | male | 1
+27 | Calderon,Frankie | green | female | 1
+59 | Tyson,Paige | brown | female | 2
+68 | Romero,Meyers | brown | male | 1
+69 | Christian,Martinez | brown | male | 1
+51 | Cabrera,Fern | blue | female | 1
+51 | Burgess,Marta | blue | female | 2
+35 | Cochran,Jenna | blue | female | 1
+57 | Dudley,Callie | blue | female | 1
+47 | Howell,Violet | green | female | 2
+33 | Cantrell,Roberts | green | male | 2
+64 | Wilcox,Stout | brown | male | 1
+37 | Reese,Todd | brown | male | 2
+39 | Bray,Dixie | blue | female | 2
+55 | Mitchell,Geneva | brown | female | 1
+25 | Stephens,Gross | brown | male | 1
+11 | Ferguson,Stewart | blue | male | 1
+58 | Howard,Polly | green | female | 2
+43 | Wilson,Odessa | brown | female | 1
+29 | Campos,Combs | brown | male | 1
+49 | Vasquez,Delacruz | green | male | 1
+21 | Wood,Helene | blue | female | 1
+53 | Sosa,Atkinson | green | male | 2
+64 | Moss,Kidd | green | male | 1
+51 | Park,Delores | green | female | 1
+37 | Curry,Walker | brown | male | 2
+51 | Holden,Bethany | brown | female | 1
+48 | Evans,Claudette | blue | female | 1
+53 | Drake,Adrian | green | female | 2
+28 | Whitaker,Becker | green | male | 2
+40 | Mckay,Evangeline | brown | female | 1
+20 | Holland,Gale | brown | female | 2
+24 | Vang,Bernice | blue | female | 2
+58 | Dorsey,Bauer | blue | male | 2
+55 | Tate,Vazquez | green | male | 1
+69 | Mack,Maritza | blue | female | 2
+56 | Hale,Tia | blue | female | 1
+16 | Morin,Glenda | brown | female | 1
+13 | Bartlett,Wilcox | green | male | 2
+21 | Roman,Golden | green | male | 1
+37 | Baker,Gould | brown | male | 1
+29 | Wade,Hays | green | male | 1
+64 | Mullen,Potter | green | male | 1
+68 | Zimmerman,Laura | green | female | 2
+42 | Underwood,Stone | brown | male | 1
+54 | Sims,Jolene | brown | female | 2
+29 | Reynolds,Tamera | green | female | 1
+56 | Roy,Josefina | brown | female | 2
+58 | Medina,Latisha | brown | female | 2
+36 | Ford,Melanie | blue | female | 1
+40 | Cervantes,Dudley | brown | male | 2
+38 | Beach,Pauline | green | female | 2
+60 | Gomez,Alissa | green | female | 1
+14 | Terry,Kelley | brown | male | 1
+38 | Greer,Juana | green | female | 2
+43 | Hammond,Hess | blue | male | 2
+38 | Glover,Decker | green | male | 1
+55 | Parrish,Isabelle | brown | female | 1
+30 | Frank,Stevenson | brown | male | 1
+59 | Richmond,Glenn | green | male | 2
+34 | Maddox,Katrina | blue | female | 1
+17 | Fitzgerald,Darlene | brown | female | 1
+56 | Battle,Finch | green | male | 1
+54 | Black,Marlene | blue | female | 2
+57 | Hayden,Bullock | brown | male | 2
+70 | Carlson,Suarez | green | male | 2
+32 | Leblanc,Chavez | brown | male | 2
+69 | Barrera,Mejia | green | male | 1
+29 | Reid,Wilma | green | female | 1
+63 | Fowler,Turner | green | male | 1
+54 | Kirk,Rachael | blue | female | 1
+23 | Fields,Nita | brown | female | 1
+20 | Ellison,Concetta | green | female | 2
+15 | Phillips,Brianna | green | female | 1
+43 | Stone,Hobbs | green | male | 2
+46 | Ballard,Stuart | blue | male | 2
+36 | Chang,Colette | blue | female | 2
+67 | Coffey,Deleon | green | male | 2
+62 | Mcfarland,Collier | blue | male | 2
+19 | Gilliam,Enid | green | female | 1
+57 | Moon,Stacey | blue | female | 1
+62 | Flowers,Buckner | green | male | 2
+22 | Oneal,Carney | brown | male | 1
+51 | Foreman,Dickson | green | male | 2
+19 | Hendrix,Rosemarie | blue | female | 2
+43 | Turner,Frazier | blue | male | 1
+69 | Clemons,Juliette | green | female | 1
+16 | Haynes,Baxter | blue | male | 1
+42 | Gallegos,William | brown | male | 1
+70 | Wells,Goodwin | brown | male | 1
+47 | Ewing,Ines | brown | female | 2
+21 | Molina,Haney | brown | male | 1
+44 | Powell,Griffin | green | male | 1
+47 | Kline,Roth | blue | male | 1
+24 | England,Tanner | brown | male | 2
+31 | Cotton,Melba | brown | female | 2
+32 | Zamora,Hinton | brown | male | 1
+25 | Morris,Donovan | green | male | 1
+56 | Michael,Elinor | green | female | 2
+69 | Mcintyre,Mercado | green | male | 2
+12 | Fischer,Sexton | brown | male | 1
+21 | Berry,Marilyn | brown | female | 1
+25 | Howe,Delgado | blue | male | 1
+38 | Hancock,Paulette | blue | female | 2
+63 | Robinson,Bennett | green | male | 1
+20 | Thomas,Leanne | green | female | 2
+40 | Pacheco,Weaver | brown | male | 1
+22 | Alvarez,Kristin | green | female | 2
+23 | Mcpherson,Jarvis | blue | male | 1
+44 | Holloway,Walsh | brown | male | 2
+13 | Bass,Marcie | blue | female | 2
+59 | Hatfield,Rena | green | female | 2
+42 | Harvey,Viola | blue | female | 1
+43 | Montoya,Franklin | blue | male | 2
+64 | Franco,Trevino | green | male | 1
+13 | Roberson,Antonia | green | female | 1
+65 | Berg,Sullivan | green | male | 2
+51 | Jimenez,Peck | blue | male | 2
+42 | Cannon,Mandy | green | female | 2
+42 | Hill,Faith | green | female | 2
+65 | Hodges,Gilda | green | female | 1
+57 | Lawson,Ellen | blue | female | 1
+39 | Morgan,Goldie | green | female | 1
+14 | Kidd,Atkins | brown | male | 2
+17 | Cooley,Marcella | green | female | 1
+56 | Ward,Jeanie | green | female | 2
+28 | David,Mercer | green | male | 1
+70 | Huber,Olga | green | female | 2
+30 | Weber,Fields | green | male | 1
+26 | Randall,Lowe | green | male | 1
+40 | Shaw,Reeves | blue | male | 2
+29 | Burnett,Francis | green | male | 2
+33 | Duran,Carolyn | brown | female | 2
+49 | Jackson,Mia | brown | female | 1
+11 | Garrett,Conner | green | male | 2
+16 | Lowery,Nellie | brown | female | 2
+18 | Cunningham,Shanna | blue | female | 2
+56 | Ruiz,Dalton | brown | male | 2
+15 | Shelton,Mable | blue | female | 1
+56 | Dillard,Erin | blue | female | 1
+48 | Wolfe,Katheryn | green | female | 2
+20 | Vance,Britt | blue | male | 1
+34 | Meadows,Ford | brown | male | 2
+11 | Mercer,Lucille | green | female | 2
+29 | Oneill,Chrystal | brown | female | 2
+56 | Santana,Lesley | brown | female | 2
+47 | Boone,Kristie | green | female | 1
+57 | Francis,Jerry | blue | female | 2
+62 | Wiley,Kerr | blue | male | 2
+70 | Chavez,Nadine | brown | female | 2
+19 | Ochoa,Rosemary | brown | female | 2
+59 | Singleton,Brown | brown | male | 1
+31 | Hood,Simone | brown | female | 1
+11 | Logan,Janette | green | female | 2
+11 | Travis,Lou | green | female | 1
+70 | Watts,Mcclain | green | male | 2
+16 | Brady,Marie | green | female | 2
+66 | Allen,Karen | blue | female | 1
+10 | Smith,Garza | green | male | 1
+10 | Bruce,Banks | green | male | 1
+37 | Moody,Hilary | blue | female | 2
+40 | Clayton,Jaime | green | female | 1
+67 | Watkins,Blankenship | brown | male | 2
+54 | Gutierrez,Howe | green | male | 1
+58 | Mcdaniel,Virgie | green | female | 2
+50 | Lyons,Celina | green | female | 2
+59 | Bowers,Velasquez | green | male | 1
+46 | Higgins,Nielsen | blue | male | 2
+54 | Whitfield,Roxanne | blue | female | 2
+35 | Sears,Mcintosh | green | male | 2
+32 | Russell,Elisa | brown | female | 1
+36 | Rodgers,Zelma | green | female | 1
+24 | Griffin,Christine | brown | female | 1
+34 | Hoffman,Vaughn | brown | male | 2
+63 | Durham,Laurie | brown | female | 1
+59 | Guy,Woods | blue | male | 2
+11 | Holman,Booker | green | male | 1
+40 | Rutledge,Mcbride | brown | male | 2
+54 | Baxter,Betsy | brown | female | 2
+39 | Martin,Mccarty | blue | male | 1
+57 | Scott,Benjamin | blue | male | 2
+26 | Galloway,Aline | green | female | 1
+39 | Hampton,Ferguson | brown | male | 1
+62 | Sykes,Neva | brown | female | 2
+61 | Becker,Blackburn | blue | male | 1
+45 | Duffy,Melinda | blue | female | 1
+22 | Bean,Terry | blue | female | 2
+53 | Johnson,Mathis | blue | male | 2
+70 | Lott,Meadows | blue | male | 2
+13 | Washington,Lourdes | green | female | 1
+24 | Chan,Bradshaw | brown | male | 1
+29 | Glass,Jo | blue | female | 1
+13 | Moses,Casey | green | male | 2
+30 | Silva,Michelle | blue | female | 1
+39 | Murray,Duffy | green | male | 1
+55 | Taylor,James | blue | male | 1
+31 | Conner,Robyn | brown | female | 2
+22 | Walsh,Josephine | green | female | 2
+13 | Spence,Norton | green | male | 2
+67 | Gentry,Russell | blue | male | 1
+29 | Avery,Valenzuela | green | male | 1
+20 | Graves,Jessie | green | female | 1
+22 | Reyes,Stanton | blue | male | 2
+22 | Johns,Knight | green | male | 1
+69 | Buck,Marcy | green | female | 1
+38 | Mills,Lang | blue | male | 2
+29 | Lindsay,Sykes | blue | male | 2
+70 | Kennedy,Christa | blue | female | 1
+29 | Wagner,Anastasia | blue | female | 2
+39 | Snow,Orr | blue | male | 1
+68 | Collier,Tonia | blue | female | 2
+64 | Mcguire,Ann | blue | female | 2
+45 | Gonzalez,Freida | blue | female | 2
+31 | Miller,Trina | green | female | 2
+65 | Torres,Watkins | brown | male | 2
+65 | Mcmillan,Burris | brown | male | 2
+33 | Thornton,Graham | green | male | 1
+37 | Cain,Christi | brown | female | 1
+26 | Daniel,Hull | green | male | 1
+39 | Rodriquez,Sargent | green | male | 1
+60 | Nunez,Salazar | green | male | 1
+19 | Curtis,Mcgowan | green | male | 2
+48 | Small,Pennington | blue | male | 1
+48 | Chase,Priscilla | green | female | 1
+15 | Newman,Watson | green | male | 2
+60 | Cantu,Ola | green | female | 1
+49 | Hoover,Carlene | brown | female | 2
+46 | Dotson,Wong | green | male | 2
+19 | Lewis,Sylvia | green | female | 2
+60 | Gilbert,Mai | brown | female | 2
+64 | Levy,Lillian | blue | female | 1
+69 | Finch,Whitaker | green | male | 2
+13 | Glenn,Luisa | brown | female | 2
+37 | Mcgowan,Henrietta | brown | female | 2
+70 | Tyson,Gayle | brown | female | 1
+21 | Ayala,Iris | blue | female | 1
+59 | Odom,Beverley | brown | female | 1
+36 | Shannon,Mcfadden | brown | male | 1
+62 | Rivas,Salinas | brown | male | 1
+66 | Bishop,Deann | blue | female | 2
+47 | May,Ashley | blue | male | 2
+54 | Salas,Alicia | brown | female | 2
+60 | Flynn,Rosa | green | male | 2
+63 | Sargent,Cash | blue | male | 1
+41 | Patterson,Bernadine | brown | female | 1
+11 | Walker,Lupe | green | female | 1
+14 | Dyer,Graves | green | male | 2
+52 | Doyle,Barr | brown | male | 1
+49 | Tanner,Fischer | brown | male | 1
+11 | Vincent,Dona | blue | female | 1
+37 | Blankenship,Cardenas | blue | male | 1
+50 | Callahan,Lora | brown | female | 2
+18 | Hyde,Chasity | blue | female | 2
+36 | Wood,Conway | brown | male | 2
+47 | Park,Shepard | blue | male | 2
+17 | Mays,Parrish | blue | male | 1
+47 | Valdez,Sears | blue | male | 1
+53 | Rojas,Lee | brown | female | 2
+58 | Pollard,Whitfield | green | male | 2
+34 | Drake,Guzman | brown | male | 1
